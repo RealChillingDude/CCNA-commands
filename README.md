@@ -1,4 +1,6 @@
 # CCNA-commands
+https://visualsubnetcalc.com/
+https://www.exampointers.com/ipv4/
 Part 1
 2. 基础设备设置 (Basic Setup)
 设置设备名称和登录横幅。
